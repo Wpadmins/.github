@@ -39,7 +39,7 @@ Praktische posts over WordPress beveiliging, snelheid, hosting-keuzes en complia
 
 → [Volledige blog](https://wpadmins.nl/blog/)
 
-## Waar je ons nog meer vindt
+## Waar je ons nog meer vindt 
 
 | | |
 |---|---|
